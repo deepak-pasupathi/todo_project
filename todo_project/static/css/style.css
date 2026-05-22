@@ -5,7 +5,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url("../images/bg.png") no-repeat center center/cover;
+    background: url("../images/todo_image.jpg") no-repeat center center/cover;
     position: relative;
 }
 
